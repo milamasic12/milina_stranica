@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+mark {
+	color:purple;
+}
+img {
+	height:400px;
+}
+p {
+	color: ghostwhite;
+	font-family:"germania-one";
+	font-size: 20px;
+	line-height: 22px;
+	width: 600px;
+}
+h1, h2, h3 {
+	font-family:"germania-one";
+	color:mediumpurple;
+}
+.naslovidva {
+	font-family:"germania-one";
+	color:black;
+}
+body {
+	background-color:black;	
+}
+.drugapozadina {
+	background-color:mediumorchid; 
+}
+a:link {
+	color:black;
+	background-color:darkorange;
+	padding:10px;
+	line-height:50px;
+	border:10px solid #D35F06;
+}
+a:hover { 
+	background-color:crimson;
+}
+li {
+	color:white;
+}
+img {
+	height:400px;
+}
+.novi_blok {
+	background-color: rgba(0, 0, 255, 0.2);
+	padding:20px;
+	margin:20px;
+	width:21%;
+}
+.novi_blok2 {
+	background-color: rgba(100, 100, 0, 0.2);
+	padding:20px;
+	margin:20px;
+	width:32%;
+}
